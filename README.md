@@ -27,3 +27,6 @@ INTRODUCTION
    </p>
 
 CONTACT
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/907d2965-a5c2-41fc-9110-77f616d8bd9f/deploy-status)](https://app.netlify.com/sites/swapnilsagar/deploys)
