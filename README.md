@@ -4,12 +4,12 @@ A website for my Into and resume
 
 
 <p align="center">
-    <img src="sitecv/img/1.jpg"  width=600>
+    <img src="sitecv/img/1.jpg"  width=600>HEADER
     <br>
     <br>
    </p>
 
-HEADER
+
 
 
 <p align="center">
