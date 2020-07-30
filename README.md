@@ -28,5 +28,4 @@ INTRODUCTION
 
 CONTACT
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7b333cb-a206-4352-a223-4ede2f614f6c/deploy-status)](https://app.netlify.com/sites/swapnilsagar/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4822a7d2-7f1e-4c46-a0ab-333fc936c7d7/deploy-status)](https://app.netlify.com/sites/swapnilsagar/deploys)
