@@ -29,6 +29,10 @@ A website for my Into and resume
     <br>
    </p>
 
+<p align="center">
+    [![Netlify Status](https://api.netlify.com/api/v1/badges/4822a7d2-7f1e-4c46-a0ab-333fc936c7d7/deploy-status)](https://app.netlify.com/sites/swapnilsagar/deploys)
+    <br>
+    <br>
+   </p>
 
-<br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4822a7d2-7f1e-4c46-a0ab-333fc936c7d7/deploy-status)](https://app.netlify.com/sites/swapnilsagar/deploys)
+
